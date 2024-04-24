@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MARDI\\Desktop\\ejercicios_CFP\\RoxanaBrea\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAC8C9C-7F54-4E42-8871-3AF4FCAE9D93}|GuiaC#_Ej03\\GuiaC#_Ej03.csproj|c:\\users\\mardi\\desktop\\ejercicios_cfp\\roxanabrea\\guiac#_ej03\\sumanum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAC8C9C-7F54-4E42-8871-3AF4FCAE9D93}|GuiaC#_Ej03\\GuiaC#_Ej03.csproj|solutionrelative:guiac#_ej03\\sumanum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF16F2E-4EBB-4A25-84E7-1559ABE466B8}|GuiaC#_Ej02\\GuiaC#_Ej02.csproj|c:\\users\\mardi\\desktop\\ejercicios_cfp\\roxanabrea\\guiac#_ej02\\nomapelledad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BF16F2E-4EBB-4A25-84E7-1559ABE466B8}|GuiaC#_Ej02\\GuiaC#_Ej02.csproj|solutionrelative:guiac#_ej02\\nomapelledad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAC8C9C-7F54-4E42-8871-3AF4FCAE9D93}|GuiaC#_Ej03\\GuiaC#_Ej03.csproj|c:\\users\\mardi\\desktop\\ejercicios_cfp\\roxanabrea\\guiac#_ej03\\guiac#_ej03.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4DAC8C9C-7F54-4E42-8871-3AF4FCAE9D93}|GuiaC#_Ej03\\GuiaC#_Ej03.csproj|solutionrelative:guiac#_ej03\\guiac#_ej03.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{136D6764-25C1-4892-9107-5D73B207B547}|Primera_Clase\\Primera_Clase.csproj|c:\\users\\mardi\\desktop\\ejercicios_cfp\\roxanabrea\\primera_clase\\nombre_y_apellido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{136D6764-25C1-4892-9107-5D73B207B547}|Primera_Clase\\Primera_Clase.csproj|solutionrelative:primera_clase\\nombre_y_apellido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SumaNum.cs",
+              "DocumentMoniker": "C:\\Users\\MARDI\\Desktop\\ejercicios_CFP\\RoxanaBrea\\GuiaC#_Ej03\\SumaNum.cs",
+              "RelativeDocumentMoniker": "GuiaC#_Ej03\\SumaNum.cs",
+              "ToolTip": "C:\\Users\\MARDI\\Desktop\\ejercicios_CFP\\RoxanaBrea\\GuiaC#_Ej03\\SumaNum.cs",
+              "RelativeToolTip": "GuiaC#_Ej03\\SumaNum.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:55:19.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GuiaC#_Ej03.csproj",
+              "DocumentMoniker": "C:\\Users\\MARDI\\Desktop\\ejercicios_CFP\\RoxanaBrea\\GuiaC#_Ej03\\GuiaC#_Ej03.csproj",
+              "RelativeDocumentMoniker": "GuiaC#_Ej03\\GuiaC#_Ej03.csproj",
+              "ToolTip": "C:\\Users\\MARDI\\Desktop\\ejercicios_CFP\\RoxanaBrea\\GuiaC#_Ej03\\GuiaC#_Ej03.csproj",
+              "RelativeToolTip": "GuiaC#_Ej03\\GuiaC#_Ej03.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-24T14:55:14.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "nomApellEdad.cs",
+              "DocumentMoniker": "C:\\Users\\MARDI\\Desktop\\ejercicios_CFP\\RoxanaBrea\\GuiaC#_Ej02\\nomApellEdad.cs",
+              "RelativeDocumentMoniker": "GuiaC#_Ej02\\nomApellEdad.cs",
+              "ToolTip": "C:\\Users\\MARDI\\Desktop\\ejercicios_CFP\\RoxanaBrea\\GuiaC#_Ej02\\nomApellEdad.cs",
+              "RelativeToolTip": "GuiaC#_Ej02\\nomApellEdad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:53:56.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "nombre_y_apellido.cs",
+              "DocumentMoniker": "C:\\Users\\MARDI\\Desktop\\ejercicios_CFP\\RoxanaBrea\\Primera_Clase\\nombre_y_apellido.cs",
+              "RelativeDocumentMoniker": "Primera_Clase\\nombre_y_apellido.cs",
+              "ToolTip": "C:\\Users\\MARDI\\Desktop\\ejercicios_CFP\\RoxanaBrea\\Primera_Clase\\nombre_y_apellido.cs",
+              "RelativeToolTip": "Primera_Clase\\nombre_y_apellido.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAowBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:49:12.815Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

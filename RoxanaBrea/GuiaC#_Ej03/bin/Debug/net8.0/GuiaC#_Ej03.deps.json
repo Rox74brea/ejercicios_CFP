@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GuiaC#_Ej03/1.0.0": {
+        "runtime": {
+          "GuiaC#_Ej03.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GuiaC#_Ej03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
