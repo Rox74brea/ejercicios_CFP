@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MARDI\\Desktop\\ejercicios_CFP\\RoxanaBrea\\ConsoleApp2\\ConsoleApp2.csproj",
-      "projectName": "ConsoleApp2",
-      "projectPath": "C:\\Users\\MARDI\\Desktop\\ejercicios_CFP\\RoxanaBrea\\ConsoleApp2\\ConsoleApp2.csproj",
+      "projectUniqueName": "C:\\Users\\MARDI\\Desktop\\ejercicios_CFP\\RoxanaBrea\\ConsoleApp2\\GuiaC#_Ej04.csproj",
+      "projectName": "GuiaC#_Ej04",
+      "projectPath": "C:\\Users\\MARDI\\Desktop\\ejercicios_CFP\\RoxanaBrea\\ConsoleApp2\\GuiaC#_Ej04.csproj",
       "packagesPath": "C:\\Users\\MARDI\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\MARDI\\Desktop\\ejercicios_CFP\\RoxanaBrea\\ConsoleApp2\\obj\\",
       "projectStyle": "PackageReference",

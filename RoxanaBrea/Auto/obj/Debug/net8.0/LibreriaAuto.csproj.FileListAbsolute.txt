@@ -1,0 +1,12 @@
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\Auto\bin\Debug\net8.0\LibreriaAuto.deps.json
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\Auto\bin\Debug\net8.0\LibreriaAuto.dll
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\Auto\bin\Debug\net8.0\LibreriaAuto.pdb
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\Auto\obj\Debug\net8.0\LibreriaAuto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\Auto\obj\Debug\net8.0\LibreriaAuto.AssemblyInfoInputs.cache
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\Auto\obj\Debug\net8.0\LibreriaAuto.AssemblyInfo.cs
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\Auto\obj\Debug\net8.0\LibreriaAuto.csproj.CoreCompileInputs.cache
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\Auto\obj\Debug\net8.0\LibreriaAuto.sourcelink.json
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\Auto\obj\Debug\net8.0\LibreriaAuto.dll
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\Auto\obj\Debug\net8.0\refint\LibreriaAuto.dll
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\Auto\obj\Debug\net8.0\LibreriaAuto.pdb
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\Auto\obj\Debug\net8.0\ref\LibreriaAuto.dll

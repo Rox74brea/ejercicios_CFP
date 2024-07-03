@@ -1,0 +1,12 @@
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\LibreriaClaseEstudiante\bin\Debug\net8.0\ClaseEstudiante.deps.json
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\LibreriaClaseEstudiante\bin\Debug\net8.0\ClaseEstudiante.dll
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\LibreriaClaseEstudiante\bin\Debug\net8.0\ClaseEstudiante.pdb
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\LibreriaClaseEstudiante\obj\Debug\net8.0\ClaseEstudiante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\LibreriaClaseEstudiante\obj\Debug\net8.0\ClaseEstudiante.AssemblyInfoInputs.cache
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\LibreriaClaseEstudiante\obj\Debug\net8.0\ClaseEstudiante.AssemblyInfo.cs
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\LibreriaClaseEstudiante\obj\Debug\net8.0\ClaseEstudiante.csproj.CoreCompileInputs.cache
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\LibreriaClaseEstudiante\obj\Debug\net8.0\ClaseEstudiante.sourcelink.json
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\LibreriaClaseEstudiante\obj\Debug\net8.0\ClaseEstudiante.dll
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\LibreriaClaseEstudiante\obj\Debug\net8.0\refint\ClaseEstudiante.dll
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\LibreriaClaseEstudiante\obj\Debug\net8.0\ClaseEstudiante.pdb
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\LibreriaClaseEstudiante\obj\Debug\net8.0\ref\ClaseEstudiante.dll

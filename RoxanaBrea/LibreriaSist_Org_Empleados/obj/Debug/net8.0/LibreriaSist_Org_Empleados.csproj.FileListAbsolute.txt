@@ -1,0 +1,12 @@
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\LibreriaSist_Org_Empleados\bin\Debug\net8.0\LibreriaSist_Org_Empleados.deps.json
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\LibreriaSist_Org_Empleados\bin\Debug\net8.0\LibreriaSist_Org_Empleados.dll
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\LibreriaSist_Org_Empleados\bin\Debug\net8.0\LibreriaSist_Org_Empleados.pdb
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\LibreriaSist_Org_Empleados\obj\Debug\net8.0\LibreriaSist_Org_Empleados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\LibreriaSist_Org_Empleados\obj\Debug\net8.0\LibreriaSist_Org_Empleados.AssemblyInfoInputs.cache
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\LibreriaSist_Org_Empleados\obj\Debug\net8.0\LibreriaSist_Org_Empleados.AssemblyInfo.cs
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\LibreriaSist_Org_Empleados\obj\Debug\net8.0\LibreriaSist_Org_Empleados.csproj.CoreCompileInputs.cache
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\LibreriaSist_Org_Empleados\obj\Debug\net8.0\LibreriaSist_Org_Empleados.sourcelink.json
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\LibreriaSist_Org_Empleados\obj\Debug\net8.0\LibreriaSist_Org_Empleados.dll
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\LibreriaSist_Org_Empleados\obj\Debug\net8.0\refint\LibreriaSist_Org_Empleados.dll
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\LibreriaSist_Org_Empleados\obj\Debug\net8.0\LibreriaSist_Org_Empleados.pdb
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\LibreriaSist_Org_Empleados\obj\Debug\net8.0\ref\LibreriaSist_Org_Empleados.dll

@@ -1,0 +1,15 @@
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\ConsoleApp2\bin\Debug\net8.0\GuiaC#_Ej04.exe
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\ConsoleApp2\bin\Debug\net8.0\GuiaC#_Ej04.deps.json
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\ConsoleApp2\bin\Debug\net8.0\GuiaC#_Ej04.runtimeconfig.json
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\ConsoleApp2\bin\Debug\net8.0\GuiaC#_Ej04.dll
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\ConsoleApp2\bin\Debug\net8.0\GuiaC#_Ej04.pdb
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\ConsoleApp2\obj\Debug\net8.0\GuiaC#_Ej04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\ConsoleApp2\obj\Debug\net8.0\GuiaC#_Ej04.AssemblyInfoInputs.cache
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\ConsoleApp2\obj\Debug\net8.0\GuiaC#_Ej04.AssemblyInfo.cs
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\ConsoleApp2\obj\Debug\net8.0\GuiaC#_Ej04.csproj.CoreCompileInputs.cache
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\ConsoleApp2\obj\Debug\net8.0\GuiaC#_Ej04.sourcelink.json
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\ConsoleApp2\obj\Debug\net8.0\GuiaC#_Ej04.dll
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\ConsoleApp2\obj\Debug\net8.0\refint\GuiaC#_Ej04.dll
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\ConsoleApp2\obj\Debug\net8.0\GuiaC#_Ej04.pdb
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\ConsoleApp2\obj\Debug\net8.0\GuiaC#_Ej04.genruntimeconfig.cache
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\ConsoleApp2\obj\Debug\net8.0\ref\GuiaC#_Ej04.dll

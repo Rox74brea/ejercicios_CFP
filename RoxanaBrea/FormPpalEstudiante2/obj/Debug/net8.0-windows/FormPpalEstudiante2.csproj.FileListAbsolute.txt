@@ -1,0 +1,8 @@
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\FormPpalEstudiante2\obj\Debug\net8.0-windows\FormPpalEstudiante2.FormPpalEstudiante2.resources
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\FormPpalEstudiante2\obj\Debug\net8.0-windows\FormPpalEstudiante2.Properties.Resources.resources
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\FormPpalEstudiante2\obj\Debug\net8.0-windows\FormPpalEstudiante2.csproj.GenerateResource.cache
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\FormPpalEstudiante2\obj\Debug\net8.0-windows\FormPpalEstudiante2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\FormPpalEstudiante2\obj\Debug\net8.0-windows\FormPpalEstudiante2.AssemblyInfoInputs.cache
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\FormPpalEstudiante2\obj\Debug\net8.0-windows\FormPpalEstudiante2.AssemblyInfo.cs
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\FormPpalEstudiante2\obj\Debug\net8.0-windows\FormPpalEstudiante2.csproj.CoreCompileInputs.cache
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\FormPpalEstudiante2\obj\Debug\net8.0-windows\FormPpalEstudiante2.sourcelink.json

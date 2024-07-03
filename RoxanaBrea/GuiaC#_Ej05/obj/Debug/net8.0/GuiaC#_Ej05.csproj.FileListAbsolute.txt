@@ -1,0 +1,15 @@
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\GuiaC#_Ej05\bin\Debug\net8.0\GuiaC#_Ej05.exe
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\GuiaC#_Ej05\bin\Debug\net8.0\GuiaC#_Ej05.deps.json
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\GuiaC#_Ej05\bin\Debug\net8.0\GuiaC#_Ej05.runtimeconfig.json
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\GuiaC#_Ej05\bin\Debug\net8.0\GuiaC#_Ej05.dll
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\GuiaC#_Ej05\bin\Debug\net8.0\GuiaC#_Ej05.pdb
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\GuiaC#_Ej05\obj\Debug\net8.0\GuiaC#_Ej05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\GuiaC#_Ej05\obj\Debug\net8.0\GuiaC#_Ej05.AssemblyInfoInputs.cache
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\GuiaC#_Ej05\obj\Debug\net8.0\GuiaC#_Ej05.AssemblyInfo.cs
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\GuiaC#_Ej05\obj\Debug\net8.0\GuiaC#_Ej05.csproj.CoreCompileInputs.cache
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\GuiaC#_Ej05\obj\Debug\net8.0\GuiaC#_Ej05.sourcelink.json
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\GuiaC#_Ej05\obj\Debug\net8.0\GuiaC#_Ej05.dll
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\GuiaC#_Ej05\obj\Debug\net8.0\refint\GuiaC#_Ej05.dll
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\GuiaC#_Ej05\obj\Debug\net8.0\GuiaC#_Ej05.pdb
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\GuiaC#_Ej05\obj\Debug\net8.0\GuiaC#_Ej05.genruntimeconfig.cache
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\GuiaC#_Ej05\obj\Debug\net8.0\ref\GuiaC#_Ej05.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FormularioEstudiante/1.0.0": {
+        "dependencies": {
+          "ClaseEstudiante": "1.0.0"
+        },
+        "runtime": {
+          "FormularioEstudiante.dll": {}
+        }
+      },
+      "ClaseEstudiante/1.0.0": {
+        "runtime": {
+          "ClaseEstudiante.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FormularioEstudiante/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClaseEstudiante/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

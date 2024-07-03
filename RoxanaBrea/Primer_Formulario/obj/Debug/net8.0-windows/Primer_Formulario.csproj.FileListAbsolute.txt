@@ -1,0 +1,17 @@
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\Primer_Formulario\bin\Debug\net8.0-windows\Primer_Formulario.exe
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\Primer_Formulario\bin\Debug\net8.0-windows\Primer_Formulario.deps.json
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\Primer_Formulario\bin\Debug\net8.0-windows\Primer_Formulario.runtimeconfig.json
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\Primer_Formulario\bin\Debug\net8.0-windows\Primer_Formulario.dll
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\Primer_Formulario\bin\Debug\net8.0-windows\Primer_Formulario.pdb
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\Primer_Formulario\obj\Debug\net8.0-windows\Primer_Formulario.Form1.resources
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\Primer_Formulario\obj\Debug\net8.0-windows\Primer_Formulario.csproj.GenerateResource.cache
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\Primer_Formulario\obj\Debug\net8.0-windows\Primer_Formulario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\Primer_Formulario\obj\Debug\net8.0-windows\Primer_Formulario.AssemblyInfoInputs.cache
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\Primer_Formulario\obj\Debug\net8.0-windows\Primer_Formulario.AssemblyInfo.cs
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\Primer_Formulario\obj\Debug\net8.0-windows\Primer_Formulario.csproj.CoreCompileInputs.cache
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\Primer_Formulario\obj\Debug\net8.0-windows\Primer_Formulario.sourcelink.json
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\Primer_Formulario\obj\Debug\net8.0-windows\Primer_Formulario.dll
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\Primer_Formulario\obj\Debug\net8.0-windows\refint\Primer_Formulario.dll
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\Primer_Formulario\obj\Debug\net8.0-windows\Primer_Formulario.pdb
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\Primer_Formulario\obj\Debug\net8.0-windows\Primer_Formulario.genruntimeconfig.cache
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\Primer_Formulario\obj\Debug\net8.0-windows\ref\Primer_Formulario.dll

@@ -1,0 +1,12 @@
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\Autobomba\bin\Debug\net8.0\Libreria_Radio.deps.json
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\Autobomba\bin\Debug\net8.0\Libreria_Radio.dll
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\Autobomba\bin\Debug\net8.0\Libreria_Radio.pdb
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\Autobomba\obj\Debug\net8.0\Libreria_Radio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\Autobomba\obj\Debug\net8.0\Libreria_Radio.AssemblyInfoInputs.cache
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\Autobomba\obj\Debug\net8.0\Libreria_Radio.AssemblyInfo.cs
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\Autobomba\obj\Debug\net8.0\Libreria_Radio.csproj.CoreCompileInputs.cache
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\Autobomba\obj\Debug\net8.0\Libreria_Radio.sourcelink.json
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\Autobomba\obj\Debug\net8.0\Libreria_Radio.dll
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\Autobomba\obj\Debug\net8.0\refint\Libreria_Radio.dll
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\Autobomba\obj\Debug\net8.0\Libreria_Radio.pdb
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\Autobomba\obj\Debug\net8.0\ref\Libreria_Radio.dll

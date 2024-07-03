@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Proyecto_Radio/1.0.0": {
+        "dependencies": {
+          "Libreria_Radio": "1.0.0"
+        },
+        "runtime": {
+          "Proyecto_Radio.dll": {}
+        }
+      },
+      "Libreria_Radio/1.0.0": {
+        "runtime": {
+          "Libreria_Radio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Proyecto_Radio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Libreria_Radio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

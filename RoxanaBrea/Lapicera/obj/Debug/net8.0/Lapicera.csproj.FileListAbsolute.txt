@@ -1,0 +1,12 @@
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\Lapicera\bin\Debug\net8.0\Lapicera.deps.json
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\Lapicera\bin\Debug\net8.0\Lapicera.dll
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\Lapicera\bin\Debug\net8.0\Lapicera.pdb
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\Lapicera\obj\Debug\net8.0\Lapicera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\Lapicera\obj\Debug\net8.0\Lapicera.AssemblyInfoInputs.cache
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\Lapicera\obj\Debug\net8.0\Lapicera.AssemblyInfo.cs
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\Lapicera\obj\Debug\net8.0\Lapicera.csproj.CoreCompileInputs.cache
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\Lapicera\obj\Debug\net8.0\Lapicera.sourcelink.json
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\Lapicera\obj\Debug\net8.0\Lapicera.dll
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\Lapicera\obj\Debug\net8.0\refint\Lapicera.dll
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\Lapicera\obj\Debug\net8.0\Lapicera.pdb
+C:\Users\MARDI\Desktop\ejercicios_CFP\RoxanaBrea\Lapicera\obj\Debug\net8.0\ref\Lapicera.dll
